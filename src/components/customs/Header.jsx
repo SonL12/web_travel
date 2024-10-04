@@ -10,7 +10,7 @@ function Header() {
           <h2 className='font-bold text-[25px]'>TraveLogic</h2>
         </div>
       </div>
-      <div>
+      <div className=''>
         <Button>Sign In</Button>
       </div>
     </div>
